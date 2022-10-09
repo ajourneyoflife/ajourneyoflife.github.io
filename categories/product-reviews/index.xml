@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>product reviews on a journey of life</title>
+    <link>/categories/product-reviews/</link>
+    <description>Recent content in product reviews on a journey of life</description>
+    <image>
+      <url>/papermod-cover.png</url>
+      <link>/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 May 2007 21:46:44 +0000</lastBuildDate><atom:link href="/categories/product-reviews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>cold press coffee</title>
+      <link>/articles/2007/05/09/cold-press-coffee/</link>
+      <pubDate>Wed, 09 May 2007 21:46:44 +0000</pubDate>
+      
+      <guid>/articles/2007/05/09/cold-press-coffee/</guid>
+      <description>I love coffee and every few years I learn of a new way to make some brew. I started out with an old fashioned coffee maker in college (the Gevalia free gift kind), upgraded to a Black &amp;amp; Decker Brew ‘N Go after I was married, I have a wonderful Briel espresso machine, purchased a Bodum french press and am now using a Toddy Cold Brew Coffee System that produces a coffee concentrate that will keep in your refrigerator for up to two weeks.</description>
+    </item>
+    
+  </channel>
+</rss>
